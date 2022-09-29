@@ -1,0 +1,544 @@
+{
+    "SnacksItems": [
+        {
+            "comp href": "https://www.simplyrecipes.com/pepperoni-calzones-5104686",
+            "card__img src": "https://www.simplyrecipes.com/thmb/oPLHznxiiEaBRJxKW6ekMRYyik8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pepperoni-Calzone-HorizontalLead-2ee5dee2ec2a40ceaab1fe0fd265271a.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/oPLHznxiiEaBRJxKW6ekMRYyik8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pepperoni-Calzone-HorizontalLead-2ee5dee2ec2a40ceaab1fe0fd265271a.jpg\"\r\nalt=\"Easy Pepperoni Calzones on a plate\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Pepperoni Calzones",
+            "meta-text__text": "55 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/swedish_meatballs/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/xAuUoyObw1eJYXBBoPVsq0lVaaw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__12__swedish-meatballs-horiz-a-1800-61b1231c248a4285ac87bacd11d65385.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/xAuUoyObw1eJYXBBoPVsq0lVaaw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__12__swedish-meatballs-horiz-a-1800-61b1231c248a4285ac87bacd11d65385.jpg\"\r\nalt=\"Swedish Meatballs\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Swedish Meatballs",
+            "meta-text__text": "80 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/pupusas-recipe-6666096",
+            "card__img src": "https://www.simplyrecipes.com/thmb/HxT-Ym-_zXeiW-YXvEB470CzNh4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pupusas-LEAD-4-d5aa9223ec4141cb8e853f6fe9339e1b.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/HxT-Ym-_zXeiW-YXvEB470CzNh4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pupusas-LEAD-4-d5aa9223ec4141cb8e853f6fe9339e1b.jpg\"\r\nalt=\"Plate of Pupusas with One Cut in Half\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Pupusas",
+            "meta-text__text": "50 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/marinated-mushrooms-recipe-6363025",
+            "card__img src": "https://www.simplyrecipes.com/thmb/nxh_mNSLe40qnkJNeco1ojbYTpw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Marinated-Mushrooms-LEAD-01-b2726746bbb74e1b8bfd1b9f2df252b8.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/nxh_mNSLe40qnkJNeco1ojbYTpw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Marinated-Mushrooms-LEAD-01-b2726746bbb74e1b8bfd1b9f2df252b8.jpg\"\r\nalt=\"Marinated Mushrooms in a Bowl with Herbs\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Marinated Mushrooms",
+            "meta-text__text": "15 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/roasted-tomatoes-recipe-6386303",
+            "card__img src": "https://www.simplyrecipes.com/thmb/kTV-pj1iP7o_j6D8XRQaRVDQOlI=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Roasted-Tomatoes-LEAD-02-14fe9b6e3e864ae9ba7a62a6af6eae31.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/kTV-pj1iP7o_j6D8XRQaRVDQOlI=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Roasted-Tomatoes-LEAD-02-14fe9b6e3e864ae9ba7a62a6af6eae31.jpg\"\r\nalt=\"Roasted Tomatoes on a Tray\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Roasted Tomatoes",
+            "meta-text__text": "2 hrs",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/frozen-chocolate-covered-bananas-recipe-6455362",
+            "card__img src": "https://www.simplyrecipes.com/thmb/LVONdumWrVPFUG_zWP49049JN64=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Frozen-Chocolate-Bananas-Lead-4-745667ef4dfe4709aaf46bd82eb7ac7a.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/LVONdumWrVPFUG_zWP49049JN64=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Frozen-Chocolate-Bananas-Lead-4-745667ef4dfe4709aaf46bd82eb7ac7a.jpg\"\r\nalt=\"Frozen Chocolate Covered Bananas on a Tray\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Frozen Chocolate-Covered Bananas",
+            "meta-text__text": "22 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/tomatillo-avocado-salsa-recipe-5323093",
+            "card__img src": "https://www.simplyrecipes.com/thmb/lVjeT-EyUsQqN0D3l5zi1OGixrg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tomatillo-Avocado-Salsa-LEAD-1b_SEO-fbdb40eece0442b9afcaea99386925e8.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/lVjeT-EyUsQqN0D3l5zi1OGixrg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tomatillo-Avocado-Salsa-LEAD-1b_SEO-fbdb40eece0442b9afcaea99386925e8.jpg\"\r\nalt=\"Bowl of Tomatillo Avocado Salsa Surrounded by Tomatillos, Lime Wedges, and Jalapeños\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Tomatillo Avocado Salsa",
+            "meta-text__text": "20 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/lamb-skewers-with-haitian-epis-5225102",
+            "card__img src": "https://www.simplyrecipes.com/thmb/zKmNBRpAB9_u6Mxqi7xE3qyTmbA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lamb-Skewers-with-Epis-LEAD-05-517adf6d3e7c41b7b0802d641f9c550f.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/zKmNBRpAB9_u6Mxqi7xE3qyTmbA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lamb-Skewers-with-Epis-LEAD-05-517adf6d3e7c41b7b0802d641f9c550f.jpg\"\r\nalt=\"Plate of Lamb Skewers with Epis Served with Arugula\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Grilled Lamb Skewers with Haitian Epis",
+            "meta-text__text": "30 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/sheet-pan-granola-bark-recipe-6500754",
+            "card__img src": "https://www.simplyrecipes.com/thmb/-gpzDmOezz1XIYK7ZI1ozXGAlYg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Sheetpan-Granola-Bark-LEAD-2-43c70ddbe8f64c92b4a7be225c3c054f.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/-gpzDmOezz1XIYK7ZI1ozXGAlYg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Sheetpan-Granola-Bark-LEAD-2-43c70ddbe8f64c92b4a7be225c3c054f.jpg\"\r\nalt=\"Sheet Pan Granola Bark\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Sheet Pan Granola Bark",
+            "meta-text__text": "55 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/potato-knishes-recipe-6455523",
+            "card__img src": "https://www.simplyrecipes.com/thmb/mXTx-Qdw4S4LlzeeIt28CdWKIZs=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Potato-Knishes-LEAD-13-da62cdb2806842bd8415136944dadfb0.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/mXTx-Qdw4S4LlzeeIt28CdWKIZs=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Potato-Knishes-LEAD-13-da62cdb2806842bd8415136944dadfb0.jpg\"\r\nalt=\"Potato Knishes on a Plate with a Bowl of Mustard\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Potato Knishes",
+            "meta-text__text": "2 hrs",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/rice-cake-with-dulce-de-leche-dark-chocolate-recipe-5496988",
+            "card__img src": "https://www.simplyrecipes.com/thmb/8Si64zGJ6yCv36-hSGHrzP8cF6Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Dulce-de-Leche-Choclate-Rice-Cake-LEAD-02-e809bcf556b449cda04b94289d9d4e78.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/8Si64zGJ6yCv36-hSGHrzP8cF6Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Dulce-de-Leche-Choclate-Rice-Cake-LEAD-02-e809bcf556b449cda04b94289d9d4e78.jpg\"\r\nalt=\"Rice Cake with Dulce de Leche + Dark Chocolate Surrounded by a Bowl of Flaky Salt and a Bowl of Dulce de Leche\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Rice Cake with Dulce de Leche and Dark Chocolate",
+            "meta-text__text": "11 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/air-fryer-bacon-5409266",
+            "card__img src": "https://www.simplyrecipes.com/thmb/5P7_2Vf9BDchZGOkhJZnyQm9dys=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Air-Fryer-Bacon-LEAD-01-0cc2b8fe59244932886e63e61f06c1d2.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/5P7_2Vf9BDchZGOkhJZnyQm9dys=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Air-Fryer-Bacon-LEAD-01-0cc2b8fe59244932886e63e61f06c1d2.jpg\"\r\nalt=\"Air Fryer Bacon on Plate and in Air Fryer\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Air Fryer Bacon",
+            "meta-text__text": "11 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/cheeseburger-empanadas-recipe-5225314",
+            "card__img src": "https://www.simplyrecipes.com/thmb/4lPG4_KzVyo4UbchN0oQxjzlsTc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Cheeseburger-Empanadas-LEAD-6-e0e10c39f33744cdace9a346378d1d0c.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/4lPG4_KzVyo4UbchN0oQxjzlsTc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Cheeseburger-Empanadas-LEAD-6-e0e10c39f33744cdace9a346378d1d0c.jpg\"\r\nalt=\"Cheeseburger Empanadas\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Cheeseburger Empanadas",
+            "meta-text__text": "47 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/lotus-purple-sweet-potato-and-coconut-rice-pudding-recipe-5213934",
+            "card__img src": "https://www.simplyrecipes.com/thmb/CWV2tlBbN9LAkENWL3EeM4XqmRA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lotus-Rice-Pudding-LEAD-10-a0712ecacd3c435c838e156c16f57b17.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/CWV2tlBbN9LAkENWL3EeM4XqmRA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lotus-Rice-Pudding-LEAD-10-a0712ecacd3c435c838e156c16f57b17.jpg\"\r\nalt=\"Coconut rice pudding with lotus and sweet potato served in a bowl with a spoon.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Lotus, Purple Sweet Potato, and Coconut Rice Pudding",
+            "meta-text__text": "45 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/crash-hot-potatoes-with-smoked-salmon-recipe-5211692",
+            "card__img src": "https://www.simplyrecipes.com/thmb/64HgECji8oWFEbAMsSat1P4-Ypc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Crash-Hot-Potatoes-Salmon-LEAD-6-94523a3f2c6541c7904cf68f028db495.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/64HgECji8oWFEbAMsSat1P4-Ypc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Crash-Hot-Potatoes-Salmon-LEAD-6-94523a3f2c6541c7904cf68f028db495.jpg\"\r\nalt=\"A platter of smoked salmon-topped potatoes.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Crash Hot Potatoes with Smoked Salmon",
+            "meta-text__text": "60 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/georges_light_rye_bread/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/PAu5IV7M7GJTAkDUnC_HqnxWzVA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__01__Rye-Bread-LEAD-06-ab6cabf5b3644dfcb1c652be5bb4617c.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/PAu5IV7M7GJTAkDUnC_HqnxWzVA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__01__Rye-Bread-LEAD-06-ab6cabf5b3644dfcb1c652be5bb4617c.jpg\"\r\nalt=\"Homemade dark rye bread on a wooden board\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Homemade Rye Bread",
+            "meta-text__text": "70 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/zucchini-stir-fry-recipe-6281192",
+            "card__img src": "https://www.simplyrecipes.com/thmb/e3UFx40Iyeudt3LK36ZqyJjVngs=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Zucchini-Stir-Fry-LEAD-04-4c17e2de1abb4f1186f6dd1af0b3f956.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/e3UFx40Iyeudt3LK36ZqyJjVngs=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Zucchini-Stir-Fry-LEAD-04-4c17e2de1abb4f1186f6dd1af0b3f956.jpg\"\r\nalt=\"Zucchini Stir-Fry on a Platter\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Zucchini Stir-Fry",
+            "meta-text__text": "25 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/pan-con-tomate-recipe-6260045",
+            "card__img src": "https://www.simplyrecipes.com/thmb/t941l9_WZ22iguIKA0XFSRC0qfQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pan-Con-Tomate-LEAD-03-fe1b8ab2299d4f9c90e9908d79c75d50.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/t941l9_WZ22iguIKA0XFSRC0qfQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pan-Con-Tomate-LEAD-03-fe1b8ab2299d4f9c90e9908d79c75d50.jpg\"\r\nalt=\"Pan con Tomate on a Wooden Cutting Board and Small Plate Next to a Glass\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Pan con Tomate",
+            "meta-text__text": "13 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/esquites-recipe-5649771",
+            "card__img src": "https://www.simplyrecipes.com/thmb/JCyqCO-XfbxQJY7tm4QKD9my2N8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Esquites-LEAD-01-31cd5202e0404583b255f2edd2aa4781.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/JCyqCO-XfbxQJY7tm4QKD9my2N8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Esquites-LEAD-01-31cd5202e0404583b255f2edd2aa4781.jpg\"\r\nalt=\"Bowl of Esquites Topped with Cilantro, Cotija Cheese, and Ancho Chile Pepper Surrounded by Bowls of Toppings\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Esquites (Warm Mexican Corn Salad)",
+            "meta-text__text": "40 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/quick-pickled-radishes-recipe-5509337",
+            "card__img src": "https://www.simplyrecipes.com/thmb/68Yrvod6jzaAMDetRzNVKsUYWl4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pickled-Radishes-LEAD-07-7510c25dcf464351a48efae064c41bd4.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/68Yrvod6jzaAMDetRzNVKsUYWl4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pickled-Radishes-LEAD-07-7510c25dcf464351a48efae064c41bd4.jpg\"\r\nalt=\"Quick Pickled Radishes in a Jar Next to a Bowl of Radishes\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Quick Pickled Radishes",
+            "meta-text__text": "17 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/grilled-okra-recipe-5509262",
+            "card__img src": "https://www.simplyrecipes.com/thmb/nocyE-xW0JPk93ScuJ2qt2f26rY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grilled-Okra-LEAD-07-5121ccb14bbc449d814a52a2b6edf8d5.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/nocyE-xW0JPk93ScuJ2qt2f26rY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grilled-Okra-LEAD-07-5121ccb14bbc449d814a52a2b6edf8d5.jpg\"\r\nalt=\"Platter of Grilled Okra Next to a Small Bowl of Sauce \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Grilled Okra",
+            "meta-text__text": "18 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/easy-whipped-ricotta-toast-recipe-5498683",
+            "card__img src": "https://www.simplyrecipes.com/thmb/xT_r2uKjjcQELamJulNJFXHdRI8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Whipped-Ricotta-Toast-LEAD-18_SEO-cf1d4cad55bd4eb0b0645101f76d5c43.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/xT_r2uKjjcQELamJulNJFXHdRI8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Whipped-Ricotta-Toast-LEAD-18_SEO-cf1d4cad55bd4eb0b0645101f76d5c43.jpg\"\r\nalt=\"Two Pieces of Whipped Ricotta Toast Topped with Lemon-Thyme Honey Next to a Bowl of More Honey\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Easy Whipped Ricotta Toast",
+            "meta-text__text": "25 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/fried-zucchini-recipe-5409251",
+            "card__img src": "https://www.simplyrecipes.com/thmb/VXXQnfv0PMZ0HugJnBPfsqvTTJY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Zucchini-Fries-LEAD-09-b911ee11ed5c43879ef003452542226e.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/VXXQnfv0PMZ0HugJnBPfsqvTTJY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Zucchini-Fries-LEAD-09-b911ee11ed5c43879ef003452542226e.jpg\"\r\nalt=\"Fried Zucchini on a Platter with a Lemon Wedge and Fork\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Fried Zucchini",
+            "meta-text__text": "35 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/pepperoni-rolls-from-scratch-recipe-5324979",
+            "card__img src": "https://www.simplyrecipes.com/thmb/WveKDoWUynNZvPY-xpPXmtf4gh4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pepperoni-Rolls-LEAD-3-bf96b86c91d646a49b0367e2fcf7a0e2.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/WveKDoWUynNZvPY-xpPXmtf4gh4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pepperoni-Rolls-LEAD-3-bf96b86c91d646a49b0367e2fcf7a0e2.jpg\"\r\nalt=\"Pepperoni Rolls on a Plate with Bowl of Marinara in Background\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Pepperoni Rolls",
+            "meta-text__text": "60 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/corn-and-ricotta-bruschetta-recipe-5324635",
+            "card__img src": "https://www.simplyrecipes.com/thmb/PjFFuwrUqtIVtNUuMgEXFsje4q4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SimplyRecipes-Corn-Bruschetta-LEAD-1-2f6a35c5fce34d5f8ca6f201b5def06f.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/PjFFuwrUqtIVtNUuMgEXFsje4q4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SimplyRecipes-Corn-Bruschetta-LEAD-1-2f6a35c5fce34d5f8ca6f201b5def06f.jpg\"\r\nalt=\"Corn and Ricotta Bruschetta \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Corn and Ricotta Bruschetta",
+            "meta-text__text": "20 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/smoked-chicken-wings-recipe-5323662",
+            "card__img src": "https://www.simplyrecipes.com/thmb/JGmnlmLvd1840VPI8jeOR0Ays1Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-SmokedChickenWings-LEAD-11-425d5dcccfd54a06b14ccdb63a403479.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/JGmnlmLvd1840VPI8jeOR0Ays1Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-SmokedChickenWings-LEAD-11-425d5dcccfd54a06b14ccdb63a403479.jpg\"\r\nalt=\"Smoked Chicken Wings on Plate\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Smoked Chicken Wings",
+            "meta-text__text": "25 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/homemade-french-fries-recipe-5323152",
+            "card__img src": "https://www.simplyrecipes.com/thmb/t22lj2AQhCt2RAO30Y9M5vQSKws=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Fries-LEAD-06-303e022e2c174640916eabfb2bf45f0d.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/t22lj2AQhCt2RAO30Y9M5vQSKws=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Fries-LEAD-06-303e022e2c174640916eabfb2bf45f0d.jpg\"\r\nalt=\"Homemade French Fries Served with Ketchup\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Homemade French Fries",
+            "meta-text__text": "40 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/zucchini-carrot-bread-recipe-5323096",
+            "card__img src": "https://www.simplyrecipes.com/thmb/FJoUw0IxKYcLHiXbF8QH7tAW8a0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Zucchini-Carrot-Bread-LEAD-05-e615a590826d47c0ab2b6c81d2ba812f.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/FJoUw0IxKYcLHiXbF8QH7tAW8a0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Zucchini-Carrot-Bread-LEAD-05-e615a590826d47c0ab2b6c81d2ba812f.jpg\"\r\nalt=\"Slices of Zucchini Carrot Bread on Round Wood Board Next to Small Bowl of Coconut Flakes\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Zucchini Carrot Bread",
+            "meta-text__text": "80 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/soy-sauce-eggs-recipe-5272286",
+            "card__img src": "https://www.simplyrecipes.com/thmb/J0PaBFvMKOBOik2MCZDVz-fqriw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Soy-Sauce-Eggs-LEAD-2_b-2b1f51fbaced4b4bb13991f9a3ac4848.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/J0PaBFvMKOBOik2MCZDVz-fqriw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Soy-Sauce-Eggs-LEAD-2_b-2b1f51fbaced4b4bb13991f9a3ac4848.jpg\"\r\nalt=\"Soy Sauce Eggs on Plate with Two Eggs Cut in Half\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Soy Sauce Eggs",
+            "meta-text__text": "27 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/garlic-confit-recipe-5270759",
+            "card__img src": "https://www.simplyrecipes.com/thmb/dZH2eMHQm4jVA92F0iV1IH96UlQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Garlic-Confit-Lead-3-H-2-ce350bc78aab44f484dacbb513f82946.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/dZH2eMHQm4jVA92F0iV1IH96UlQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Garlic-Confit-Lead-3-H-2-ce350bc78aab44f484dacbb513f82946.jpg\"\r\nalt=\"Jar of Garlic Confit\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Garlic Confit",
+            "meta-text__text": "60 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/tomato-confit-recipe-5270375",
+            "card__img src": "https://www.simplyrecipes.com/thmb/vneakwIEksRSnLRq4rDv2M27eJ0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tomato-Confit-LEAD-03-021d846d523a4b83a3c29247f782970c.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/vneakwIEksRSnLRq4rDv2M27eJ0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tomato-Confit-LEAD-03-021d846d523a4b83a3c29247f782970c.jpg\"\r\nalt=\"Tomato Confit \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Tomato Confit",
+            "meta-text__text": "2 hrs",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/easy-crispy-tofu-recipe-5225495",
+            "card__img src": "https://www.simplyrecipes.com/thmb/-6hU_nyotwTZAzlfLBZx4RZMMec=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Crispy-Tofu-LEAD-09-ff2d61a818ba4eb784494522c367f48b.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/-6hU_nyotwTZAzlfLBZx4RZMMec=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Crispy-Tofu-LEAD-09-ff2d61a818ba4eb784494522c367f48b.jpg\"\r\nalt=\"Crispy Tofu\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Easy Crispy Tofu",
+            "meta-text__text": "60 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/tteokbokki-spicy-korean-rice-cakes-recipe-5224356",
+            "card__img src": "https://www.simplyrecipes.com/thmb/ZMzsBxjLfRPcgb0-_UkMc0Ql-Xs=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tteokbokki-LEAD-9d-63d62a9c129a48feb3427a9eb48799a7.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/ZMzsBxjLfRPcgb0-_UkMc0Ql-Xs=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tteokbokki-LEAD-9d-63d62a9c129a48feb3427a9eb48799a7.jpg\"\r\nalt=\"Tteokbokki on white platter.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Tteokbokki (Spicy Korean Rice Cakes)",
+            "meta-text__text": "30 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/asparagus-pakoras-with-lemony-yogurt-sauce-recipe-5223642",
+            "card__img src": "https://www.simplyrecipes.com/thmb/7AWxokcdyUP_kN_qC4py9jofFKA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Asparagus-Pakora-LEAD-03-5dbfa9ba0fb1499f879a1d40da038202.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/7AWxokcdyUP_kN_qC4py9jofFKA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Asparagus-Pakora-LEAD-03-5dbfa9ba0fb1499f879a1d40da038202.jpg\"\r\nalt=\"Asparagus pakoras on a white platter.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Asparagus Pakoras With Lemony Yogurt Sauce",
+            "meta-text__text": "40 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/salara-guyanese-coconut-roll-recipe-5223058",
+            "card__img src": "https://www.simplyrecipes.com/thmb/i4SP4-wWkdZ0ri1iSem2lmoUWpo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Salara-Guyanese-Coconut-Roll-LEAD-04-f63cf62b3c1b4812bccf03781e1b082e.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/i4SP4-wWkdZ0ri1iSem2lmoUWpo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Salara-Guyanese-Coconut-Roll-LEAD-04-f63cf62b3c1b4812bccf03781e1b082e.jpg\"\r\nalt=\"Salara (Guyanese Coconut Roll)\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Salara (Guyanese Coconut Roll)",
+            "meta-text__text": "2 hrs",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/scotch-eggs-recipe-5222866",
+            "card__img src": "https://www.simplyrecipes.com/thmb/kA_S-raDr9An28BHnjo3c407s_Y=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Scotch-Eggs-LEAD-04-d167adc0aa5e4576aec9ed9fdd4568a0.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/kA_S-raDr9An28BHnjo3c407s_Y=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Scotch-Eggs-LEAD-04-d167adc0aa5e4576aec9ed9fdd4568a0.jpg\"\r\nalt=\"Scotch eggs in half on a plate with honey mustard dip.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Scotch Eggs",
+            "meta-text__text": "60 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/guyanese-gojas-recipe-5221034",
+            "card__img src": "https://www.simplyrecipes.com/thmb/iZi-ANnmTDJxLMyFt_9FOuMl2zQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Guyanese-Gojas-LEAD-08-fbd00c02a30d46c2abad99435c228423.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/iZi-ANnmTDJxLMyFt_9FOuMl2zQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Guyanese-Gojas-LEAD-08-fbd00c02a30d46c2abad99435c228423.jpg\"\r\nalt=\"Guyanese gojas on a platter\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Guyanese Gojas",
+            "meta-text__text": "100 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/egg-rolls-recipe-5214651",
+            "card__img src": "https://www.simplyrecipes.com/thmb/znFyH9DeLV0Tqbzbir0aD6ONaqc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Vegetarian-Egg-Rolls-LEAD-8-e34d64e7ac7b4609926be8a6b88b416b.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/znFyH9DeLV0Tqbzbir0aD6ONaqc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Vegetarian-Egg-Rolls-LEAD-8-e34d64e7ac7b4609926be8a6b88b416b.jpg\"\r\nalt=\"A dark plate with stacked vegetable egg rolls and dipping sauce\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Egg Rolls",
+            "meta-text__text": "90 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/fried-spring-rolls-recipe-5213485",
+            "card__img src": "https://www.simplyrecipes.com/thmb/d5ELBHzK452k7TXCJuMcmFEKNso=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Spring-Rolls-LEAD-08-c31604cfa1b6432682f1788a7b767271.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/d5ELBHzK452k7TXCJuMcmFEKNso=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Spring-Rolls-LEAD-08-c31604cfa1b6432682f1788a7b767271.jpg\"\r\nalt=\"Dipping a spring roll into a sauce with more spring rolls on the plate and on a platter behind it.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Fried Spring Rolls",
+            "meta-text__text": "85 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/mushroom-crostini-recipe-5210373",
+            "card__img src": "https://www.simplyrecipes.com/thmb/aZO5lMscJqhz4YgSFoyU-pA3Ucw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Mushroom-Crostini-LEAD-09-2a5045d3919c49609083093f73c31278.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/aZO5lMscJqhz4YgSFoyU-pA3Ucw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Mushroom-Crostini-LEAD-09-2a5045d3919c49609083093f73c31278.jpg\"\r\nalt=\"Three crostini topped with savory mushrooms and caramelized onions on a white plate.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Mushroom Crostini",
+            "meta-text__text": "70 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/cranberry-walnut-baked-brie-recipe-5210362",
+            "card__img src": "https://www.simplyrecipes.com/thmb/Zb_vqv2IEu3cBSieL86f-LNBysk=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Cranberry-Walnut-Baked-Brie-LEAD-04-7dea9d3d0de74b05bdd738ac9867476d.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/Zb_vqv2IEu3cBSieL86f-LNBysk=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Cranberry-Walnut-Baked-Brie-LEAD-04-7dea9d3d0de74b05bdd738ac9867476d.jpg\"\r\nalt=\"Baked brie with cranberry sauce and candied walnuts on a serving tay with crackers and fruit set around it.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Cranberry Walnut Baked Brie",
+            "meta-text__text": "75 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/mexican_shrimp_cocktail/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/ZiclH9h6BAHUFj-Fij_9geiLWho=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Mexican-Shrimp-Cocktail-LEAD-10-951c6c6d587749448812247f2af373a6.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/ZiclH9h6BAHUFj-Fij_9geiLWho=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Mexican-Shrimp-Cocktail-LEAD-10-951c6c6d587749448812247f2af373a6.jpg\"\r\nalt=\"A parfait glass with mexican shrimp cocktail set on a table outside.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Mexican Shrimp Cocktail",
+            "meta-text__text": "35 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/boiled_peanuts/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/vx36Tf0wAMNrDob5Ksg_J9s7JwA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2008__11__boiled-peanuts-horiz-a-1600-df2a99e5b2ab4968b34646e904bdfda7.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/vx36Tf0wAMNrDob5Ksg_J9s7JwA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2008__11__boiled-peanuts-horiz-a-1600-df2a99e5b2ab4968b34646e904bdfda7.jpg\"\r\nalt=\"boiled peanuts\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Boiled Peanuts",
+            "meta-text__text": "2 hrs",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/potato_skins/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/t9Nk9ow5yWDaTnHpNqlMwmTtcQI=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simply-recipes-potato-skins-SEO-2cbdc233e29c44a69f03ab0ca01f509d.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/t9Nk9ow5yWDaTnHpNqlMwmTtcQI=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simply-recipes-potato-skins-SEO-2cbdc233e29c44a69f03ab0ca01f509d.jpg\"\r\nalt=\"A platter of potato skins ready to be served.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Potato Skins",
+            "meta-text__text": "110 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/instant_pot_yogurt/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/82QzR1L1e3gp1WyTLIfkMHHr6go=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__01__Instant-Pot-Yogurt-LEAD-13-26934bc4b45243649f80b8af9e689a35.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/82QzR1L1e3gp1WyTLIfkMHHr6go=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__01__Instant-Pot-Yogurt-LEAD-13-26934bc4b45243649f80b8af9e689a35.jpg\"\r\nalt=\"How to Make Yogurt in the Instant Pot\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Instant Pot Yogurt",
+            "meta-text__text": "35 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/easy_brazilian_cheese_bread/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/uD0hwAJDmJLoRHONxcU_B-EsOCI=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Brazilian-Cheese-Bread-LEAD-4-cd9f3d6d9a8b4ac6b4f8c78d0aae3d23.JPG",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/uD0hwAJDmJLoRHONxcU_B-EsOCI=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Brazilian-Cheese-Bread-LEAD-4-cd9f3d6d9a8b4ac6b4f8c78d0aae3d23.JPG\"\r\nalt=\"Easy Brazilian Cheese Bread (Pão de Queijo) in a Bowl\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Easy Brazilian Cheese Bread (Pão de Queijo)",
+            "meta-text__text": "20 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/slow_cooker_honey_buffalo_chicken_wings/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/_iZ7-HptC58gz9IkPBHK9huwe68=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__slow-cooker-honey-buffalo-wings-lead-4-42e2c7541715417280659c958c10bb02.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/_iZ7-HptC58gz9IkPBHK9huwe68=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__slow-cooker-honey-buffalo-wings-lead-4-42e2c7541715417280659c958c10bb02.jpg\"\r\nalt=\"Honey buffalo chicken wings cooked in a crock pot and served with blue cheese dressing\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Slow Cooker Honey Buffalo Chicken Wings",
+            "meta-text__text": "10 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/chocolate_covered_pretzels/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/nDGMeZFWYmfAlw11yHKApZqpZG8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__10__Chocolate-Covered-Pretzels-horiz-a-1600-301e6be183144221b2952988caac7607.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/nDGMeZFWYmfAlw11yHKApZqpZG8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__10__Chocolate-Covered-Pretzels-horiz-a-1600-301e6be183144221b2952988caac7607.jpg\"\r\nalt=\"Chocolate Covered Pretzels\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Chocolate-Covered Pretzels",
+            "meta-text__text": "20 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/baked_stuffed_jalapenos/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/v3Cal1aadHhPDC45kQmEl5kaCJg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__02__Baked-Stuffed-Jalapeno-LEAD-2-e7f69ad630cd4ebda956a3fc5562bdfe.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/v3Cal1aadHhPDC45kQmEl5kaCJg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__02__Baked-Stuffed-Jalapeno-LEAD-2-e7f69ad630cd4ebda956a3fc5562bdfe.jpg\"\r\nalt=\"Stuffed Jalapenos\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Baked Stuffed Jalapeños",
+            "meta-text__text": "40 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/barbecued_buffalo_wings/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/likvQrCecTpdCLDi8QY7Zu1skEM=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Gilled-BBQ-Wings-LEAD-2-Horizontal-version-2-2256e1813ca5497e9e2cfea408c3ca72.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/likvQrCecTpdCLDi8QY7Zu1skEM=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Gilled-BBQ-Wings-LEAD-2-Horizontal-version-2-2256e1813ca5497e9e2cfea408c3ca72.jpg\"\r\nalt=\"A plate of grilled wings.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Grilled Buffalo Wings",
+            "meta-text__text": "95 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/baked_stuffed_clams/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/-2mG44Sexk4saXr-w4p8Lsi1o-E=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2008__07__baked-stuffed-clams-horiz-2-1200-751dae6313794bc9bac5364c818e323b.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/-2mG44Sexk4saXr-w4p8Lsi1o-E=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2008__07__baked-stuffed-clams-horiz-2-1200-751dae6313794bc9bac5364c818e323b.jpg\"\r\nalt=\"Baked Stuffed Clams\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Baked Stuffed Clams",
+            "meta-text__text": "65 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/oven_fried_potato_chips/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/db5jixZkRNXd8opDykAtES4YrWc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2004__12__oven-fried-potato-chips-horiz-a-1400-404365ff32ac4f1189e94dc547694c3d.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/db5jixZkRNXd8opDykAtES4YrWc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2004__12__oven-fried-potato-chips-horiz-a-1400-404365ff32ac4f1189e94dc547694c3d.jpg\"\r\nalt=\"oven fried potato chips\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Oven-Fried Potato Chips",
+            "meta-text__text": "35 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/roasted_in_shell_sunflower_seeds/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/Xs_5mFvaEjskPxOBTj7VzrxkkcU=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2013__08__sunflower-seeds-and-flower-a-a9a6401c41de4003a14ab8d345b6d879.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/Xs_5mFvaEjskPxOBTj7VzrxkkcU=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2013__08__sunflower-seeds-and-flower-a-a9a6401c41de4003a14ab8d345b6d879.jpg\"\r\nalt=\"\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "How to Harvest and Roast (in Shell) Sunflower Seeds",
+            "meta-text__text": "50 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/air_fryer_crab_rangoon/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/9JOwoviCC2-OgwnDFjQyTFhDxA0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__08__air-fryer-wontons-lead-3-15d67545cf004b38a35703bcdadd8cc3.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/9JOwoviCC2-OgwnDFjQyTFhDxA0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__08__air-fryer-wontons-lead-3-15d67545cf004b38a35703bcdadd8cc3.jpg\"\r\nalt=\"Cream cheese and crab wontons made in the air fryer\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Air Fryer Crab Rangoon",
+            "meta-text__text": "40 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/caramelized_onion_tart_with_gorgonzola_and_brie/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/H6QuGuJsayAo_eBmuDRUKGIXYqo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__12__caramelized-onion-tart-horiz-a-1600-057a9302d0ad45eea53dcca6868966b5.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/H6QuGuJsayAo_eBmuDRUKGIXYqo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__12__caramelized-onion-tart-horiz-a-1600-057a9302d0ad45eea53dcca6868966b5.jpg\"\r\nalt=\"Caramelized Onion Tart\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Caramelized Onion Tart with Gorgonzola and Brie",
+            "meta-text__text": "60 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/air_fryer_tostones/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/QBLRJbSqOPoAfhRGHsNNlZNIK6A=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__12__air-fryer-tostones-lead-2-f527ebdb40934aeb9e88a6e9a3b800c3.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/QBLRJbSqOPoAfhRGHsNNlZNIK6A=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__12__air-fryer-tostones-lead-2-f527ebdb40934aeb9e88a6e9a3b800c3.jpg\"\r\nalt=\"Air Fryer Tostones on parchment paper with a bowl of salt nearby.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Air Fryer Tostones",
+            "meta-text__text": "45 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/cheesy_zucchini_bites/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/b5LhzSx00WDJgeRaFCOGbawbwwo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__08__cheesy-zucchini-bites-horiz-a-1600-e48797dc567b4b3ba8e811222c4b2aed.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/b5LhzSx00WDJgeRaFCOGbawbwwo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__08__cheesy-zucchini-bites-horiz-a-1600-e48797dc567b4b3ba8e811222c4b2aed.jpg\"\r\nalt=\"Cheesy Zucchini Bites\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Cheesy Zucchini Bites",
+            "meta-text__text": "65 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/lemon_rosemary_zucchini_bread/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/kusNp3KGV77HkOtTChCWGOyzYbc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__07__lemon-rosemary-zucchini-bread-horiz-a-1200-8f736b4941954c4daf1ec9ac0817a17f.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/kusNp3KGV77HkOtTChCWGOyzYbc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__07__lemon-rosemary-zucchini-bread-horiz-a-1200-8f736b4941954c4daf1ec9ac0817a17f.jpg\"\r\nalt=\"Lemon Rosemary Zucchini Bread\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Lemon Rosemary Zucchini Bread",
+            "meta-text__text": "60 mins",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/vegan_pumpkin_bread/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/HuW8hvrQI3FCPjBRMqAk8agt0yE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2020__10__Vegan-Pumpkin-Bread-LEAD-7-1cd842550e044c9899d4bd62f2c8dae5.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/HuW8hvrQI3FCPjBRMqAk8agt0yE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2020__10__Vegan-Pumpkin-Bread-LEAD-7-1cd842550e044c9899d4bd62f2c8dae5.jpg\"\r\nalt=\"A loaf of Moist Pumpkin Bread cooling on a rack with a second loaf in the pan behind it.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Vegan Pumpkin Bread",
+            "meta-text__text": "80 mins",
+            "aggregate-star-rating__title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp href": "https://www.simplyrecipes.com/recipes/vegetable_samosas_with_mint_cilantro_chutney/",
+            "card__img src": "https://www.simplyrecipes.com/thmb/5BbOSoyqqDvqoHkJG700IA6ro3w=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__12__Vegetable-Samosas-LEAD-5-502b04ead41c4c7e91e1a214f1d9d939.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/5BbOSoyqqDvqoHkJG700IA6ro3w=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__12__Vegetable-Samosas-LEAD-5-502b04ead41c4c7e91e1a214f1d9d939.jpg\"\r\nalt=\"Vegetarian Samosas on a bed of herbs with one samosa filled with potato and peas alongside a cilantro mint chutney or dipping sauce in a small wooden bowl..\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title-text": "Vegetable Samosas with Mint Cilantro Chutney",
+            "meta-text__text": "2 hrs",
+            "aggregate-star-rating__title": "Ratings",
+            "star-icon href": "[object Object]"
+        }
+    ]
+}
