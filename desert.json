@@ -1,0 +1,604 @@
+{
+    "Deserts": [
+        {
+            "comp-href": "https://www.simplyrecipes.com/pumpkin-spice-babka-recipe-6543974",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/klieCYkqTzGSkke7SjnEMLT4ObQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pumpkin-Spice-Babka-LEAD-07-aa54cce9eb964272803b2b7d669ea278.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/klieCYkqTzGSkke7SjnEMLT4ObQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pumpkin-Spice-Babka-LEAD-07-aa54cce9eb964272803b2b7d669ea278.jpg\"\r\nalt=\"Pumpkin Spice Babka with Slices Leaning on the Loaf\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Pumpkin Spice Babka",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "95 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/chocolate-pots-de-creme-recipe-5705287",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/w5y-easJaLv4Jms9wA6uQOx9-Rc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chocolate-Pots-de-Creme-LEAD-02-138187cd9eb24e70bbaac2f84f95837e.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/w5y-easJaLv4Jms9wA6uQOx9-Rc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chocolate-Pots-de-Creme-LEAD-02-138187cd9eb24e70bbaac2f84f95837e.jpg\"\r\nalt=\"Chocolate Pots de Crème in a Ramekin\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Chocolate Pots de Crème",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "55 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/pumpkin-blondies-recipe-6456053",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/aHypT6T2Mg-L0hsthE7-4x0-cws=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pumpkin-Blondies-LEAD-05-1a938fa8daa6427ba12e1355a721ab7f.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/aHypT6T2Mg-L0hsthE7-4x0-cws=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pumpkin-Blondies-LEAD-05-1a938fa8daa6427ba12e1355a721ab7f.jpg\"\r\nalt=\"Pumpkin Blondies on a Counter \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Pumpkin Blondies",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "65 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/creme-anglaise-recipe-5271490",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/_hREM603OIZUwr4VzqvCuS30xvw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Creme-Anglaise-LEAD-1-1f603e78edd142d7bb650f1487b3c6ee.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/_hREM603OIZUwr4VzqvCuS30xvw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Creme-Anglaise-LEAD-1-1f603e78edd142d7bb650f1487b3c6ee.jpg\"\r\nalt=\"Bowl of Crème Anglaise with Some Dripping from a Spoon\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Crème Anglaise (Vanilla Custard Sauce)",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "30 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/marzipan-recipe-5295688",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/tuHVvUxzvHD0hbcDMoJj-eFixXA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Marzipan-LEAD-1-0159618499b14a3dbac95280010f265c.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/tuHVvUxzvHD0hbcDMoJj-eFixXA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Marzipan-LEAD-1-0159618499b14a3dbac95280010f265c.jpg\"\r\nalt=\"Log of Marzipan with Sliced Marzipan Disks Next to It\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Easy Homemade Marzipan",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "5 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/povitica-recipe-5270630",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/8OvW10vYphDat7db_Bz4ic7aJJU=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Povitica-LEAD-6-9578d51c70374def8cb576bcf892a12e.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/8OvW10vYphDat7db_Bz4ic7aJJU=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Povitica-LEAD-6-9578d51c70374def8cb576bcf892a12e.jpg\"\r\nalt=\"Slices of Povitica on a Plate Surrounded by Small Bowls of Ingredients (Pecans, Cinnamon, etc)\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Povitica",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "100 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/honey-cake-recipe-6500782",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/6QXtEHyOMcj8dvvNRhQKzLkorRA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Honey-Cake-LEAD-09-2f1bb3257ac6433987a0ef1bf8beaba9.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/6QXtEHyOMcj8dvvNRhQKzLkorRA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Honey-Cake-LEAD-09-2f1bb3257ac6433987a0ef1bf8beaba9.jpg\"\r\nalt=\"Honey Cake on a Plate\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Honey Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "50 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/bananas-foster-recipe-5443243",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/NbMkTmcG1ZbLUKxDJiO5qZzjTDo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Bananas-Foster-Lead-3-e7aa1f3b45184f15a33a98a64ccd6fc0.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/NbMkTmcG1ZbLUKxDJiO5qZzjTDo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Bananas-Foster-Lead-3-e7aa1f3b45184f15a33a98a64ccd6fc0.jpg\"\r\nalt=\"Plate of Bananas Foster with Scoops of Vanilla Ice Cream\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Bananas Foster",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "10 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/apple-cinnamon-rolls-recipe-6455540",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/5S4nxCj-mtbZ23PdNHj1ICC2sfw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Apple-Cinnamon-Rolls-LEAD-09-9bb4d2510eb142b49b07e2e7d5c39623.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/5S4nxCj-mtbZ23PdNHj1ICC2sfw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Apple-Cinnamon-Rolls-LEAD-09-9bb4d2510eb142b49b07e2e7d5c39623.jpg\"\r\nalt=\"Apple Cinnamon Roll on a Small Plate \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Apple Cinnamon Rolls",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "65 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/apple-fritter-bread-recipe-6362927",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/at1CKzfC-uRTfJsvg_y6msWWfII=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Apple-Fritter-Bread-LEAD-01-82aadf92da91429ea0298d6bd941222b.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/at1CKzfC-uRTfJsvg_y6msWWfII=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Apple-Fritter-Bread-LEAD-01-82aadf92da91429ea0298d6bd941222b.jpg\"\r\nalt=\"Apple Fritter Bread on Parchment Paper Surrounded by Granny Smith Apples, Pecans, and Sticks of Cinnamon\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Apple Fritter Bread",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "80 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/apple-bread-pudding-recipe-6500773",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/taJOIjKp3R2BCxoO76u8adDR59M=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Apple-Bread-Pudding-LEAD-09-f23d31550311455c8a5a3b1e6a7fad10.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/taJOIjKp3R2BCxoO76u8adDR59M=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Apple-Bread-Pudding-LEAD-09-f23d31550311455c8a5a3b1e6a7fad10.jpg\"\r\nalt=\"Slice of Apple Bread Pudding on a Plate with Sauce Drizzling\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Apple Bread Pudding",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "70 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/unicorn-cake-recipe-5324924",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/V2gXVy000DvZCSnleDmBVFHdf8Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Unicorn-Cake-Lead-2-ebda4fcb1235469faca8ad73081b6a50.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/V2gXVy000DvZCSnleDmBVFHdf8Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Unicorn-Cake-Lead-2-ebda4fcb1235469faca8ad73081b6a50.jpg\"\r\nalt=\"Unicorn Cake on Plate with Kitchen Towel Under the Plate\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Unicorn Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "51 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/baked-pawpaw-pudding-recipe-6541188",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/YYXSXCiGyj2_lxv9Mz-daPST5OA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Paw-Paw-Pudding-SERP2-2f3e49cdb94548b69e64ec152e2756a8.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/YYXSXCiGyj2_lxv9Mz-daPST5OA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Paw-Paw-Pudding-SERP2-2f3e49cdb94548b69e64ec152e2756a8.jpg\"\r\nalt=\"Pawpaw Pudding on a Plate Served with Crème Fraîche\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Pawpaw Pudding",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "43 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/bee-sting-cake-recipe-5705238",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/aQ4FWK7xjrPdREUqCQIFEg6XqB0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Bee-Sting-Cake-LEAD-03-7347e06e9c1149aa86d2157b1094575d.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/aQ4FWK7xjrPdREUqCQIFEg6XqB0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Bee-Sting-Cake-LEAD-03-7347e06e9c1149aa86d2157b1094575d.jpg\"\r\nalt=\"Bee Sting Cake on a Circular Wooden Board\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Bee Sting Cake (Bienenstich)",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "55 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/chocolate-chip-cookie-cake-recipe-5524897",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/sEkQE2jLV6tgZmpJ11tJ254LL2c=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chocolate-Chip-Cookie-Cake-LEAD-2-c0fbd936300543228b2b4c3549723bbc.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/sEkQE2jLV6tgZmpJ11tJ254LL2c=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chocolate-Chip-Cookie-Cake-LEAD-2-c0fbd936300543228b2b4c3549723bbc.jpg\"\r\nalt=\"Chocolate Chip Cookie Cake Surrounded by Plates and Small Bowls with Sprinkles and Chocolate Chips\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Chocolate Chip Cookie Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "55 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/peach-upside-down-cake-with-buttermilk-recipe-5547729",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/K4M5VbSXbq-94sypQDXbKo1T8CE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Peach-Upside-Down-Cake-LEAD-07-6b639c0a5ed84940b4cd5faf20236c40.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/K4M5VbSXbq-94sypQDXbKo1T8CE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Peach-Upside-Down-Cake-LEAD-07-6b639c0a5ed84940b4cd5faf20236c40.jpg\"\r\nalt=\"Slice of Peach Upside Down Cake on a Small Plate with a Fork\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Peach Upside Down Cake with Buttermilk",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "80 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/frozen-chocolate-covered-bananas-recipe-6455362",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/LVONdumWrVPFUG_zWP49049JN64=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Frozen-Chocolate-Bananas-Lead-4-745667ef4dfe4709aaf46bd82eb7ac7a.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/LVONdumWrVPFUG_zWP49049JN64=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Frozen-Chocolate-Bananas-Lead-4-745667ef4dfe4709aaf46bd82eb7ac7a.jpg\"\r\nalt=\"Frozen Chocolate Covered Bananas on a Tray\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Frozen Chocolate-Covered Bananas",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "22 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/how-to-make-cake-pops-5324876",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/lx6Egtt96XLikQO9nxbsFy1awFo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Cake-Pops-LEAD-06-9f3d54312bec47599f4c4425fd978539.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/lx6Egtt96XLikQO9nxbsFy1awFo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Cake-Pops-LEAD-06-9f3d54312bec47599f4c4425fd978539.jpg\"\r\nalt=\"Sprinkled Cake Pops in Jars on a Plate Next to Two Small Plates of Sprinkles\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "How to Make Cake Pops",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "48 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/lemon-lavender-cake-recipe-5324657",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/3YUEPTejCOWVHaAyMIL4FL1tp6w=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lemon-Lavender-Cake-LEAD-01-b83775840c0c4f0ba21168e8388a98ca.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/3YUEPTejCOWVHaAyMIL4FL1tp6w=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lemon-Lavender-Cake-LEAD-01-b83775840c0c4f0ba21168e8388a98ca.jpg\"\r\nalt=\"Lemon Lavender Cake Surrounded by Forks, a Small Bowl of Lavender, and Plates\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Lemon Lavender Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "2 hrs",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/pistachio-cardamom-tres-leches-cake-recipe-5323331",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/ZEmPnhPoXB_RCEIzaikzRHpWcsQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pistachio-Tres-Leches-LEAD-15-b25fa7b1f9a84e95a64b807f120ee924.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/ZEmPnhPoXB_RCEIzaikzRHpWcsQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pistachio-Tres-Leches-LEAD-15-b25fa7b1f9a84e95a64b807f120ee924.jpg\"\r\nalt=\"Plates of Plates of Tres Leches with Pistachio and Cardamom\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Pistachio Cardamom Tres Leches Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "80 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/smores-cereal-bars-recipe-5324186",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/JvwkBB7RqB7Hua-trMskfk6VJIY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Smores-Bars-SEO-74e183e005034549ae0a502faa0ce812.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/JvwkBB7RqB7Hua-trMskfk6VJIY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Smores-Bars-SEO-74e183e005034549ae0a502faa0ce812.jpg\"\r\nalt=\"S’mores Cereal Bars\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "S’mores Cereal Bars",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "15 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/rainbow-rice-krispie-treats-recipe-5324133",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/Mcqj4xzcNqcvUGayq-_RksTcwe4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Rainbow-Rice-Krispie-Treats-LEAD-12-25b5eccb17d046e1a8916531c38e0e3f.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/Mcqj4xzcNqcvUGayq-_RksTcwe4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Rainbow-Rice-Krispie-Treats-LEAD-12-25b5eccb17d046e1a8916531c38e0e3f.jpg\"\r\nalt=\"Rainbow Rice Krispies Treats and Marshmallows\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Rainbow Rice Krispie Treats",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "21 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/20-showstopper-holiday-desserts-5210254",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/IP-xKMWK_OgIlz692aTH-yP9EsQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Showstopper-Holiday-Desserts-LEAD-d5784afe036a4be4a41cb9f77587dab3.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/IP-xKMWK_OgIlz692aTH-yP9EsQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Showstopper-Holiday-Desserts-LEAD-d5784afe036a4be4a41cb9f77587dab3.jpg\"\r\nalt=\"Showstopper Desserts\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "20 Showstopper Holiday Desserts",
+            "meta-text__icon href": "",
+            "meta-text_text": "",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/choco-tacos-recipe-6362474",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/LzIhJ38ZUqrIUcJkrbIJOzBGpcE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Choco-Taco-LEAD-01-370a121952ec4ed4a14709b34a12b00b.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/LzIhJ38ZUqrIUcJkrbIJOzBGpcE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Choco-Taco-LEAD-01-370a121952ec4ed4a14709b34a12b00b.jpg\"\r\nalt=\"Copycat choco tacos on a tray.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Copycat Choco Tacos",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "50 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/dirt-cake-recipe-5547060",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/mxxJlWLEpYcSBAe0bhRRqCQ3RHM=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Dirt-Cake-Lead-01-be85a66fe317433bbcbb92174a792142.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/mxxJlWLEpYcSBAe0bhRRqCQ3RHM=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Dirt-Cake-Lead-01-be85a66fe317433bbcbb92174a792142.jpg\"\r\nalt=\"Cups of Dirt Cake with Gummy Worms\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Dirt Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "20 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/grilled-peaches-recipe-5498757",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/ZsguzydAGeGwpDoMsdMnMnvRDy8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grilled_Peaches-LEAD-02-c285a24e165c467f90c71649a753552d.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/ZsguzydAGeGwpDoMsdMnMnvRDy8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grilled_Peaches-LEAD-02-c285a24e165c467f90c71649a753552d.jpg\"\r\nalt=\"Grilled Peaches on a Wood Board\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Grilled Peaches",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "16 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/easy-whipped-ricotta-toast-recipe-5498683",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/xT_r2uKjjcQELamJulNJFXHdRI8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Whipped-Ricotta-Toast-LEAD-18_SEO-cf1d4cad55bd4eb0b0645101f76d5c43.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/xT_r2uKjjcQELamJulNJFXHdRI8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Whipped-Ricotta-Toast-LEAD-18_SEO-cf1d4cad55bd4eb0b0645101f76d5c43.jpg\"\r\nalt=\"Two Pieces of Whipped Ricotta Toast Topped with Lemon-Thyme Honey Next to a Bowl of More Honey\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Easy Whipped Ricotta Toast",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "25 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/rice-cake-with-dulce-de-leche-dark-chocolate-recipe-5496988",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/8Si64zGJ6yCv36-hSGHrzP8cF6Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Dulce-de-Leche-Choclate-Rice-Cake-LEAD-02-e809bcf556b449cda04b94289d9d4e78.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/8Si64zGJ6yCv36-hSGHrzP8cF6Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Dulce-de-Leche-Choclate-Rice-Cake-LEAD-02-e809bcf556b449cda04b94289d9d4e78.jpg\"\r\nalt=\"Rice Cake with Dulce de Leche + Dark Chocolate Surrounded by a Bowl of Flaky Salt and a Bowl of Dulce de Leche\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Rice Cake with Dulce de Leche and Dark Chocolate",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "11 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/rhubarb-pie-recipe-5425430",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/MCcsC8S-TP-x8R2xZOpUKSgsX4Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Rhubarb-Pie-LEAD-01-f716c32945f14023ba676bf61bfd98d6.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/MCcsC8S-TP-x8R2xZOpUKSgsX4Q=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Rhubarb-Pie-LEAD-01-f716c32945f14023ba676bf61bfd98d6.jpg\"\r\nalt=\"Rhubarb Pie in a Pie Dish\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Rhubarb Pie",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "115 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/chewy-peanut-butter-oatmeal-cookies-recipe-5410311",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/KfEBBhRPjvrIzlnGMyWcJQrOaTA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chewy-PB-Oatmeal-Cookies-LEAD-04-cf7aedb743754cd1897268ea8105f271.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/KfEBBhRPjvrIzlnGMyWcJQrOaTA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chewy-PB-Oatmeal-Cookies-LEAD-04-cf7aedb743754cd1897268ea8105f271.jpg\"\r\nalt=\"Pile of Chewy Peanut Butter Oatmeal Cookies on a Baking Sheet\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Chewy Peanut Butter Oatmeal Cookies",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "24 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/strawberry-eton-mess-recipe-5324579",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/EvyuWDQoY9qmkYeTanLLDnoVMTQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Strawberry-Eton-Mess-LEAD-01-46c85648a055493abb9358f971ebe0d6.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/EvyuWDQoY9qmkYeTanLLDnoVMTQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Strawberry-Eton-Mess-LEAD-01-46c85648a055493abb9358f971ebe0d6.jpg\"\r\nalt=\"Glasses of Strawberry Eton Mess with Spoons\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Strawberry Eton Mess",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "25 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/super-lemony-lemon-bars-recipe-5324202",
+            "card_img-src": "https://www.simplyrecipes.com/thmb/cGMUF0bBXaAEM_w2BvI8vuJxp-4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lemon-Bars-SEO-dcd3d8f3da40410280b6b6123cf715f4.jpg",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/cGMUF0bBXaAEM_w2BvI8vuJxp-4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lemon-Bars-SEO-dcd3d8f3da40410280b6b6123cf715f4.jpg\"\r\nalt=\"Stacked Lemon Bars on a Plate\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Super Lemony Lemon Bars",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "62 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/strawberry-pretzel-pie-recipe-5323155",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/Njk7gEQAUDK6TDSa-AGFA7f_AbA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Strawberry-Pretzel-Pie-Lead-3-f8d35d07223942e3956a130800b789f7.jpg\"\r\nalt=\"Strawberry Pretzel Pie in Pie Dish with a Slice on a Plate\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Strawberry Pretzel Pie",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "45 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/egg-custard-pie-recipe-5271499",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/kYb4dzTNTD6lW0TrBnKxqstyyo4=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Egg-Custard-Pie-LEAD-12-c6df123f874d4d6e919d1d58324984f5.jpg\"\r\nalt=\"Slice of Egg Custard Pie on Plate with Cream\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Egg Custard Pie",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "2 hrs",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/classic-shortbread-cookies-recipe-5268402",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/C0wXUce_liryQoQNONM_JB_cM4w=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Shortbread-LEAD-1-faff6a50a66a4ac8ae0f22b1f0d48ffa.jpg\"\r\nalt=\"Classic Shortbread Cookies on a Baking Tray\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Classic Shortbread Cookies",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "35 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/blueberry-icebox-pie-5225097",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/EsA-CUSnIMgTweooxrBw49BohQw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Blueberry-Icebox-Pie-CHERYL-DAY-LEAD_b-334d047fe8c041e9a6d78201b16dd36f.jpg\"\r\nalt=\"Whole Blueberry Ice Box pie with blueberries on the top.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Blueberry Icebox Pie",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "33 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/chocolate-pound-cake-recipe-5218186",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/I-LNEasbuIAiSQwSLcgDYdGc6J0=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chocolate-Pound-Cake-Lead-3-99975ed0839a480fba0fa08f65182528.jpg\"\r\nalt=\"Chocolate pound cake on wooden board.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Chocolate Pound Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "80 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/lotus-purple-sweet-potato-and-coconut-rice-pudding-recipe-5213934",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/CWV2tlBbN9LAkENWL3EeM4XqmRA=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lotus-Rice-Pudding-LEAD-10-a0712ecacd3c435c838e156c16f57b17.jpg\"\r\nalt=\"Coconut rice pudding with lotus and sweet potato served in a bowl with a spoon.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Lotus, Purple Sweet Potato, and Coconut Rice Pudding",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "45 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/kaju-katli-recipe-5207523",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/RXu2l_jQt3SCY5Hgr7XZpcNFl7w=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply_Recipes_Kaju_Katli_LEAD_2_B_H-3cd9b27caea7461b9deb0c3a5d1284d1.jpg\"\r\nalt=\"Kaju katli on a gold plate.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Kaju Katli",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "40 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/raspberry-liqueur-recipe-5206741",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/3QHwhibBzyMPcTP2QqKTPVhX5AM=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Raspberry-Liqueur-LEAD-5-03435546a92d401c90f0caba69c1e4b2.jpg\"\r\nalt=\"A flip top bottle of fresh raspberry liqueur with a stemmed glass and a bowl of raspberries next to it.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Raspberry Liqueur",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "90 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/25-dessert-recipes-packed-with-fresh-summer-fruit-5189677",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/TL-hW-pvIKZxae72jgJPp-0MCPY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-13-Fresh-Summer-Fruit-Desserts_LEAD2-acb8c24105264e2da38378f0ffe3e4aa.jpg\"\r\nalt=\"14 Dessert Recipes Packed with Fresh Summer Fruit\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "25 Dessert Recipes Packed with Fresh Summer Fruit",
+            "meta-text__icon href": "",
+            "meta-text_text": "",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/caramel-swirl-brownie-recipe-5112069",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/3v2t2eg0XTKPoqh0GZVnZMuABAY=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Caramel-Swirl-Brownies-LEAD-4-81d053bfd9c64a38951c8cbbb90a95aa.jpg\"\r\nalt=\"Salted Caramel Brownies \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Caramel Brownies",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "55 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/chocolate_covered_pretzels/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/nDGMeZFWYmfAlw11yHKApZqpZG8=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__10__Chocolate-Covered-Pretzels-horiz-a-1600-301e6be183144221b2952988caac7607.jpg\"\r\nalt=\"Chocolate Covered Pretzels\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Chocolate-Covered Pretzels",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "20 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/blackberry_cobbler/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/7VCGIcoISiTVF50zv6-UloCfmco=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Blackberry-Cobbler-LEAD-18-d9c24fadd79849a891883eb4a62574dc.JPG\"\r\nalt=\"Overhead view of easy blackberry cobbler in a baking dish with a spoon set where a serving was removed.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Blackberry Cobbler",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "65 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/cherry_clafouti/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/_tahrpkNgxbXXo61SOvxiwMpGZc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__06__cherry-clafouti-horiz-640-fb4a0727f6924f2da834e45064ff1849.jpg\"\r\nalt=\"Cherry dessert recipe Clafouti\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Cherry Clafoutis",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "55 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/rum_balls/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/RHGOBSB8Z_QTui-tHoLzQNEJqJQ=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__11__2016-11-12-RumBalls-4-25d7cf8e43e44cddaaed7104c6f00454.jpg\"\r\nalt=\"2016-11-12-rumballs-4\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Rum Balls",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "15 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/indian_pudding/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/ymYWXjMWepHmhMfEfSVCuA1XZxI=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__11__indian-pudding-horiz-b-1500-6869491988a74d25a32a639c91a21b8d.jpg\"\r\nalt=\"Indian Pudding\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Indian Pudding",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "2 hrs",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/cinnamon_sugar_flour_tortilla_crisps/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/o3P8kkU-ReTtsEHf2l1332gGCZo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__10__spooky-tortilla-crisps-horiz-a-2000-c60f1793056942dcb6d828be70a35c2c.jpg\"\r\nalt=\"Spooky Cinnamon Sugar Tortilla Crisps\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "\"Spooky\" Cinnamon Sugar Flour Tortilla Crisps",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "27 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/grandmas_sunshine_salad/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/IbAwxHoFhDgu6uiAMxjPBEUlWLE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2005__05__sunshine-salad-horiz-a-1280-c7c83b71548a4ae5b3fa48a80af49a0f.jpg\"\r\nalt=\"Sunshine Salad\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Grandma's Sunshine Salad",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "13 hrs",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/how_to_make_classic_tiramisu/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/-tGofmMX0zlQHjsxMrTTC9AFihw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__10__2017-10-28-Tiramisu-21-7de4673191d542039f47927fde4fee82.jpg\"\r\nalt=\"Tiramisu\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "How to Make Classic Tiramisu",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "45 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/ice-cream-cake-recipe-5271828",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/aJ8kAs3KcEw4nCkmap2Kqpro4zU=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Ice-Cream-Cake-Lead-8-e78bbe64b9484d42b199432d361ff5bf.jpg\"\r\nalt=\"Slice of Ice Cream Cake on a Small Plate with a Fork with More Cake in the Background\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Ice Cream Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "100 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/rainbow-layer-cake-recipe-5271533",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/1xqCcTsNcIUgBXjbyS8-wsysJRg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Rainbow-Layer-Cake-Lead-6-873233f5124b4c5a8ab045f65476aa9d.jpg\"\r\nalt=\"Rainbow Layer Cake on a Plate with a Portion Cut Out, Surrounded by More Cake\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Rainbow Layer Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "60 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/red-velvet-cheesecake-cake-recipe-5225189",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/juazTVLHZ7_lWsqj5yNhGmTtuuw=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Red-Velvet-Cheesecake-Cake-LEAD-7-640b5fc33f6345ff8ec175d55b32a136.jpg\"\r\nalt=\"Red Velvet Cheescake Cake\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Red Velvet Cheesecake Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "3 hrs",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/oreo-cheesecake-recipe-5225050",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/m8w6leXO3eeADY2OemQKbxOJPds=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Oreo-Cheesecake-LEAD-03-24366907c2d94f4c9efc00c28654c478.jpg\"\r\nalt=\"Oreo cheesecake \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Oreo Cheesecake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "2 hrs",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/cinnamon-babka-recipe-5215875",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/0_LzXusAkDD0qkNSaEKoyPrX350=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Cinnamon-Babka-Lead-2-2ab4f0ad15fc4495bf0e37044b8ff340.jpg\"\r\nalt=\"How to make cinnamon babka \"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Cinnamon Babka",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "4 hrs",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/baked-sticky-rice-cake-with-red-bean-paste-nian-gao-recipe-5213082",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/LRYug7Pvyzv5qSB34Ly0IWvwbBU=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Rice-Cake-Red-Bean-Paste-LEAD-13-5251cb04f8e3483aab4744e9422e5c34.jpg\"\r\nalt=\"Side view of red bean paste rice cake stacked on a plate.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Nian Gao (Baked Sticky Rice Cake with Red Bean Paste)",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "75 mins",
+            "star-rating_title": "",
+            "star-icon href": ""
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/brownie_in_a_mug/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/Dl6ncG5leLC99yIZvKkLtxNc2Hc=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Brownie-Mug-LEAD-16-5c06baaf3efb483ab258c42212d4d326.jpg\"\r\nalt=\"Overhead view of a brownie in a white mug topped with ice cream.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Brownie in a Mug",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "5 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/tapioca_pudding/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/JMhbVvXGPYxmYSgjV59_FtVS7uE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tapioca-Pudding-LEAD-5-4beedeeb35f046098cef268f748e43c0.jpg\"\r\nalt=\"Tapioca Pudding\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Tapioca Pudding",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "30 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/grandmas_oatmeal_cookies/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/v0E2Ky4V9vip15Z82CFwf3epXxo=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grandmas-Oatmeal-Cookies-LEAD-01-H-6ec906daea1c43988d9dccba7f1ca390.jpg\"\r\nalt=\"best oatmeal cookies\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Grandma's Oatmeal Cookies",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "30 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        },
+        {
+            "comp-href": "https://www.simplyrecipes.com/recipes/bisquick_apple_coffee_cake/",
+            "card_img-src": "",
+            "img-placeholder": "<img src=\"https://www.simplyrecipes.com/thmb/nw0SX3ZxvaCJz4F8dMRcsmxVmdg=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Bisquick-Apple-Coffee-Cake-LEAD-2-1fc4ac54b78748fdaee2e59944d688ad.jpg\"\r\nalt=\"A baking pan with bisquick coffee cake and two squares removed from the pan.\"\r\nwidth=\"300\"\r\nheight=\"225\"\r\nclass=\"img--noscript card__img \" />",
+            "card__title": "Bisquick Apple Coffee Cake",
+            "meta-text__icon href": "[object Object]",
+            "meta-text_text": "25 mins",
+            "star-rating_title": "Ratings",
+            "star-icon href": "[object Object]"
+        }
+    ]
+}

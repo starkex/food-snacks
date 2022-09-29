@@ -1,7 +1,7 @@
 var fs = require('fs');
 
 // json file with the data
-var data = fs.readFileSync('snacks.json');
+var data = fs.readFileSync('desert.json');
 
 var elements = JSON.parse(data);
 const express = require("express");
